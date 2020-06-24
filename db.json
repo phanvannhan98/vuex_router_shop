@@ -1,0 +1,549 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Easy Polo Black Edition1",
+      "category": 1,
+      "image": "/images/shop/product7.jpg",
+      "price": 50,
+      "color": [
+        {
+          "color": "red",
+          "image": "/images/shop/product7.jpg",
+          "amount": 100
+        },
+        {
+          "color": "green",
+          "image": "/images/shop/product9.jpg",
+          "amount": 200
+        },
+        {
+          "color": "blue",
+          "image": "/images/shop/product10.jpg",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Easy Polo Black Edition2",
+      "category": 1,
+      "image": "/images/shop/product8.jpg",
+      "price": 52,
+      "color": [
+        {
+          "color": "red",
+          "image": "/images/shop/product8.jpg",
+          "amount": 100
+        },
+        {
+          "color": "green",
+          "image": "/images/shop/product9.jpg",
+          "amount": 200
+        },
+        {
+          "color": "blue",
+          "image": "/images/shop/product10.jpg",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Easy Polo Black Edition3",
+      "category": 1,
+      "image": "/images/shop/product9.jpg",
+      "price": 53,
+      "color": [
+        {
+          "color": "red",
+          "image": "/images/shop/product9.jpg",
+          "amount": 100
+        },
+        {
+          "color": "green",
+          "image": "/images/shop/product9.jpg",
+          "amount": 200
+        },
+        {
+          "color": "blue",
+          "image": "/images/shop/product10.jpg",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Easy Polo Black Edition4",
+      "category": 2,
+      "image": "/images/shop/product10.jpg",
+      "price": 54,
+      "color": [
+        {
+          "color": "red",
+          "image": "/images/shop/product10.jpg",
+          "amount": 100
+        },
+        {
+          "color": "green",
+          "image": "/images/shop/product9.jpg",
+          "amount": 200
+        },
+        {
+          "color": "blue",
+          "image": "/images/shop/product10.jpg",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Easy Polo Black Edition5",
+      "category": 2,
+      "image": "/images/shop/product11.jpg",
+      "price": 51,
+      "color": [
+        {
+          "color": "red",
+          "image": "/images/shop/product11.jpg",
+          "amount": 100
+        },
+        {
+          "color": "green",
+          "image": "/images/shop/product9.jpg",
+          "amount": 200
+        },
+        {
+          "color": "blue",
+          "image": "/images/shop/product10.jpg",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Easy Polo Black Edition6",
+      "category": 3,
+      "image": "/images/shop/product12.jpg",
+      "price": 50,
+      "color": [
+        {
+          "color": "red",
+          "image": "/images/shop/product12.jpg",
+          "amount": 100
+        },
+        {
+          "color": "green",
+          "image": "/images/shop/product9.jpg",
+          "amount": 200
+        },
+        {
+          "color": "blue",
+          "image": "/images/shop/product10.jpg",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Easy Polo Black Edition7",
+      "category": 3,
+      "image": "/images/shop/product7.jpg",
+      "price": 50,
+      "color": [
+        {
+          "color": "red",
+          "image": "/images/shop/product7.jpg",
+          "amount": 100
+        },
+        {
+          "color": "green",
+          "image": "/images/shop/product9.jpg",
+          "amount": 200
+        },
+        {
+          "color": "blue",
+          "image": "/images/shop/product10.jpg",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Easy Polo Black Edition8",
+      "category": 2,
+      "image": "/images/shop/product8.jpg",
+      "price": 50,
+      "color": [
+        {
+          "color": "red",
+          "image": "/images/shop/product8.jpg",
+          "amount": 100
+        },
+        {
+          "color": "green",
+          "image": "/images/shop/product9.jpg",
+          "amount": 200
+        },
+        {
+          "color": "blue",
+          "image": "/images/shop/product10.jpg",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Easy Polo Black Edition8",
+      "category": 7,
+      "image": "/images/shop/product9.jpg",
+      "price": 50,
+      "color": [
+        {
+          "color": "red",
+          "image": "/images/shop/product8.jpg",
+          "amount": 100
+        },
+        {
+          "color": "green",
+          "image": "/images/shop/product9.jpg",
+          "amount": 200
+        },
+        {
+          "color": "blue",
+          "image": "/images/shop/product10.jpg",
+          "amount": 70
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "KIDS"
+    },
+    {
+      "id": 2,
+      "name": "FASHION"
+    },
+    {
+      "id": 3,
+      "name": "HOUSEHOLDS"
+    },
+    {
+      "id": 4,
+      "name": "INTERIORS"
+    },
+    {
+      "id": 5,
+      "name": "CLOTHING"
+    },
+    {
+      "id": 6,
+      "name": "BAGS"
+    },
+    {
+      "id": 7,
+      "name": "SHOES"
+    }
+  ],
+  "wishlist": [
+    {
+      "product": {
+        "id": 7,
+        "name": "Easy Polo Black Edition7",
+        "category": 3,
+        "image": "/images/shop/product7.jpg",
+        "price": 50,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product7.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "wXr0Sw3MLGe7Rmz861Zod4JmL8t1",
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Easy Polo Black Edition1",
+        "category": 1,
+        "image": "/images/shop/product7.jpg",
+        "price": 50,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product7.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "wXr0Sw3MLGe7Rmz861Zod4JmL8t1",
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Easy Polo Black Edition2",
+        "category": 1,
+        "image": "/images/shop/product8.jpg",
+        "price": 52,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product8.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "qLdwZVCQcQU4LcGjkV8d9SExul83",
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Easy Polo Black Edition1",
+        "category": 1,
+        "image": "/images/shop/product7.jpg",
+        "price": 50,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product7.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "qLdwZVCQcQU4LcGjkV8d9SExul83",
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Easy Polo Black Edition3",
+        "category": 1,
+        "image": "/images/shop/product9.jpg",
+        "price": 53,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product9.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "qLdwZVCQcQU4LcGjkV8d9SExul83",
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Easy Polo Black Edition2",
+        "category": 1,
+        "image": "/images/shop/product8.jpg",
+        "price": 52,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product8.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "wXr0Sw3MLGe7Rmz861Zod4JmL8t1",
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Easy Polo Black Edition3",
+        "category": 1,
+        "image": "/images/shop/product9.jpg",
+        "price": 53,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product9.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "wXr0Sw3MLGe7Rmz861Zod4JmL8t1",
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Easy Polo Black Edition4",
+        "category": 2,
+        "image": "/images/shop/product10.jpg",
+        "price": 54,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product10.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "wXr0Sw3MLGe7Rmz861Zod4JmL8t1",
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Easy Polo Black Edition6",
+        "category": 3,
+        "image": "/images/shop/product12.jpg",
+        "price": 50,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product12.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "wXr0Sw3MLGe7Rmz861Zod4JmL8t1",
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 9,
+        "name": "Easy Polo Black Edition8",
+        "category": 7,
+        "image": "/images/shop/product9.jpg",
+        "price": 50,
+        "color": [
+          {
+            "color": "red",
+            "image": "/images/shop/product8.jpg",
+            "amount": 100
+          },
+          {
+            "color": "green",
+            "image": "/images/shop/product9.jpg",
+            "amount": 200
+          },
+          {
+            "color": "blue",
+            "image": "/images/shop/product10.jpg",
+            "amount": 70
+          }
+        ]
+      },
+      "idUser": "wXr0Sw3MLGe7Rmz861Zod4JmL8t1",
+      "id": 10
+    }
+  ]
+}
